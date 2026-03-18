@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36ddcf6d-8a22-4e13-b2f8-1401b175bbf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 6/5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 6/5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 6/5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ostoslista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Viikko 6/tietorakenteet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Viikko 6/tietorakenteet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3An8tsPZMPPRvH0yV8pN4wBJTQd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,9 +35,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.5.1.executor": "Run",
+    "Python.5.2.executor": "Run",
+    "Python.5.3.executor": "Run",
+    "Python.ostoslista.executor": "Run",
+    "Python.tietorakenteet.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/kaapo/OneDrive/Työpöytä/kurssitehtavat/Viikko 4"
   }
 }]]></component>

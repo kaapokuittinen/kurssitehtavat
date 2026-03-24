@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36ddcf6d-8a22-4e13-b2f8-1401b175bbf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Viikko 6/5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Viikko 6/5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Viikko 6/5.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ostoslista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/6.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/Esimerkki 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/esimerkki 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/esimerkki 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/esimerkki 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/esimerkki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/rakenne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/seven_brothers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Viikko 6/tietorakenteet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Viikko 6/tietorakenteet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +44,18 @@
     "Python.5.1.executor": "Run",
     "Python.5.2.executor": "Run",
     "Python.5.3.executor": "Run",
+    "Python.5.4.executor": "Run",
+    "Python.6.1.executor": "Run",
+    "Python.6.2.executor": "Run",
+    "Python.6.3.executor": "Run",
+    "Python.6.4.executor": "Run",
+    "Python.Esimerkki 4.executor": "Run",
+    "Python.esimerkki 2.executor": "Run",
+    "Python.esimerkki 3.executor": "Run",
+    "Python.esimerkki 5.executor": "Run",
+    "Python.esimerkki.executor": "Run",
     "Python.ostoslista.executor": "Run",
+    "Python.seven_brothers.executor": "Run",
     "Python.tietorakenteet.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -62,5 +79,16 @@
       <updated>1773217191845</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Viikko 7/esimerkki.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

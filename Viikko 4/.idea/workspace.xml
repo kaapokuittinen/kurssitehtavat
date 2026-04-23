@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36ddcf6d-8a22-4e13-b2f8-1401b175bbf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Kertaustehtävät 2/KT.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kertaustehtävät 2/KT.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kertaustehtävät 2/KT.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kertaustehtävät 2/KT.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kertaustehtävät 2/KT.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kertaustehtävät 2/KT.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kertaustehtävät 3/KT 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikko 7/Aamutesti.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Viikko 7/esimerkki 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Viikko 7/esimerkki 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,10 @@
     "Python.6.4.executor": "Run",
     "Python.6.5.executor": "Run",
     "Python.6.6.executor": "Run",
+    "Python.Aamutesti.executor": "Run",
     "Python.Esimerkki 4.executor": "Run",
+    "Python.KT 1.executor": "Run",
+    "Python.KT 2.executor": "Run",
     "Python.KT.1.executor": "Run",
     "Python.KT.2.executor": "Run",
     "Python.KT.3.executor": "Run",

@@ -10,5 +10,5 @@ luku2 = float(input("Anna toka luku"))
 tulos = neliosumma(luku1, luku2)
 print("Laskun tulos on", tulos)
 
-#Funktion palauttama arvo tulostetaan, mutta ei tallenneta, joten sitä ei voi käyttää uudelleen
+#Funktion palauttama arvo tulostetaan, mutta ei tallenneta, joten sitä ei voi käyttää uudelleen 
 print(neliosumma(tulos, luku1))
